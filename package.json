@@ -1,0 +1,32 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "deck.gl": "8.0.17",
+    "downshift": "3.2.10",
+    "lodash": "4.17.11",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
+    "react-map-gl": "5.2.3",
+    "react-scripts": "3.4.0",
+    "supercluster": "6.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
